@@ -1,2 +1,2 @@
-# coursera-test
-coursera-test
+# teaching lectures for kids
+Examples
